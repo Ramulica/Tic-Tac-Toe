@@ -23,3 +23,12 @@ The game gives you the option to play the bot, there are some hidden strategys t
 ---
 
 I hope you enjoy it!
+
+---
+
+### Required libraries
+
+- tkinter
+- time
+- random
+- os
